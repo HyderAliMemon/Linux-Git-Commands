@@ -33,3 +33,41 @@ The kill command allows you to terminate a process from the command line.
 The gzip command compresses files. By default, it removes the original file and leaves you with the compressed version
 <h2>10) df </h2>
 The df command shows the size, used space, and available space on the mounted filesystems of your computer.
+
+<h1>Github Commands</h1>
+
+<h2>1) git init</h2>
+This command is used to initialize a Git repository.
+
+<h2>git clone</h2>
+This command is used to clone an existing Git repository.
+
+<h2>git add</h2>
+This command is used to add files to the Git repository.
+
+<h2>git commit</h2>
+This command is used to commit changes to the Git repository.
+
+<h2>git status</h2> 
+This command is used to check the status of the Git repository, including the changes that have been made but not yet committed.
+
+<h2>git log</h2>
+This command is used to view the commit history of the Git repository.
+
+<h2>git diff</h2>
+This command is used to view the differences between two commits.
+
+<h2>git branch</h2>
+This command is used to manage branches in the Git repository.
+
+<h2>git checkout</h2>
+This command is used to switch between branches in the Git repository.
+
+<h2>git merge</h2>
+This command is used to merge two or more branches in the Git repository.
+
+<h2>git push</h2>
+This command is used to push changes from the local Git repository to the remote repository.
+
+<h2>git pull</h2>
+This command is used to pull changes from the remote repository to the local Git repository.
